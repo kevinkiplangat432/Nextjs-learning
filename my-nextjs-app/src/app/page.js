@@ -6,6 +6,8 @@ export default function Home() {
     <main style={{ padding: "20px" }}>
       <h1>Home page</h1>
       <p>This is rendered on the server by default.</p>
+     
+
       <TestClient />
     </main>
   );
